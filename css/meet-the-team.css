@@ -440,3 +440,13 @@ footer {
     width: 100px;
     align-self: flex-end; /* Aligns button to the right */
 }
+
+
+.profile-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 10px auto;
+    display: block;
+}
